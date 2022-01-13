@@ -1,0 +1,3 @@
+[25-Mar-2020 01:00:22 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in C:\UwAmp\www\xbtitfm3.1\btemplate\bTemplate.php on line 105
+[25-Mar-2020 01:00:22 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in C:\UwAmp\www\xbtitfm3.1\btemplate\bTemplate.php on line 105
+[25-Mar-2020 01:00:23 UTC] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in C:\UwAmp\www\xbtitfm3.1\btemplate\bTemplate.php on line 105

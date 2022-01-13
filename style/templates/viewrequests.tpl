@@ -1,0 +1,29 @@
+          <tag:vr0 />
+          <tag:vr01 />
+          <tag:vr1 />
+          <tag:vr2 />
+          <tag:vr3 />
+          <tag:vr4 />
+          <tag:vr5 />
+          <tag:vr6 />
+                    <tag:pagtop />
+          <tag:vr7 />
+          <tag:vr8 />
+          <tag:vr9 />
+          <tag:vr10 />
+          <tag:vr11 />
+          <tag:vr12 />
+          <tag:vr13 />
+          <tag:vr14 />
+          <tag:vr15 />
+          <tag:vr16 />
+          <tag:vr17 />
+          <tag:vr18 />
+          <tag:vr19 />
+          <tag:vr20 />
+              <loop:req>
+                 <tag:req[].vr21 />
+                 <tag:req[].vr22 />
+              </loop:req>
+          <tag:vr23 />
+          <tag:vr24 />

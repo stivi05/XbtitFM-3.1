@@ -1,0 +1,246 @@
+/* # Design by TreetopClimber, Contact info: treetopclimber@gmail.com, Released under xbtit license */
+
+/* ## start main content blocks ## */
+ #bodyarea #Mcol .b-content a:link, #bodyarea #Mcol .b-content a:active, #bodyarea #Mcol .b-content a:visited {	color:#777;	font-size: 1em; }
+ #bodyarea #Mcol .b-content a:hover {	color: #0E0D1E; }
+ #bodyarea #Mcol .block-head { margin: 0px; padding: 0px; width: 100%; }
+ #bodyarea #Mcol .block-head-l { background:#F5F5F5 url(../single/images/main-corners.png); background-repeat: no-repeat; background-position: left top; margin: 0px; padding: 0px; float: left; height: 9px; width: 9px; }
+ #bodyarea #Mcol .block-head-r { background:#F5F5F5 url(../single/images/main-corners.png); background-repeat: no-repeat; background-position: right top; margin: 0px; padding: 0px; float: right; height: 9px; width: 9px; }
+ #bodyarea #Mcol .block-head-m { background:#F5F5F5 url(../single/images/main-fill.png); background-repeat: repeat-x; background-position: top; height: 9px; width: auto; margin: 0px 9px 0px 9px; display: block; }
+ #bodyarea #Mcol .block-head-title { background: #338899 url(../single/images/navigation-bg.png); background-repeat: repeat-x; background-position: top; height: 45px; width: auto; margin: 0px;	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11pt; line-height: 49px; font-weight: normal; text-shadow:1px 1px 1px #000; font-style:none;color: #33CCBB; text-align:left; text-transform:capitalize; padding: 0px 0px 0px 15px; }
+ #bodyarea #Mcol .block-content-l { background:#F5F5F5 url(../single/images/main-l.png); background-repeat: repeat-y; background-position: left; margin: 0px; width: auto; padding: 0px; display: block; }
+ #bodyarea #Mcol .block-content-r { background:#F5F5F5 url(../single/images/main-r.png); background-repeat: repeat-y; background-position: right; margin: 0px; padding: 0px; width: auto; display: block; }
+ #bodyarea #Mcol .block-content { margin: 0px; padding: 0px; width: 100%; display: block; }
+ #bodyarea #Mcol .b-content { width: auto; margin: 0px 4px 0px 4px; padding: 0px; background: #C0D9E3 url(../single/images/main-m.png); text-align: left; display: block; overflow: hidden; color:#0E0D1E; }
+ #bodyarea #Mcol .b-content .header a:link, #bodyarea #Mcol .b-content .header a:visited { color:#0E0D1E; font-weight:normal; font-size: 1em; padding: 0px 5px 0px 5px; }
+ #bodyarea #Mcol .b-content .header a:hover { color: #000; font-weight:normal; font-size: 1em; padding: 0px 5px 0px 5px; }
+ #bodyarea #Mcol .b-content .header { border-collapse: collapse; background-color: #F6F6F6; background-image: url(../single/images/navigation-bg.png); background-repeat: repeat-x; background-position: top; line-height: 26px; height: 30px; padding: 0px 0px 2px 10px; margin:0px 4px 0px 5px; font-size: 9pt; color: #262535; font-weight:normal; text-align:left; }
+ #bodyarea #Mcol .block-foot { margin: 0px; padding: 0px; width: auto; }
+ #bodyarea #Mcol .block-foot-l { background:#F5F5F5 url(../single/images/main-corners.png); background-repeat: no-repeat; background-position: left top; margin: 0px; padding: 0px; float: left; height: 9px; width: 9px; }
+ #bodyarea #Mcol .block-foot-r { background:#F5F5F5 url(../single/images/main-corners.png); background-repeat: no-repeat; background-position: right top; margin: 0px; padding: 0px; float: right; height: 9px; width: 9px; }
+ #bodyarea #Mcol .block-foot-m { background:#F5F5F5 url(../single/images/main-fill.png); background-repeat: repeat-x; background-position: top; height: 9px; width: auto; margin: 0px 9px 0px 9px; display: block; }
+ #bodyarea #Mcol .block-shadow { background:url(../single/images/shadow2.png) no-repeat top center; width:600px; height:17px; margin-bottom:18px; margin-left:auto; margin-right:auto; margin-top:-1px; }
+ #bodyarea #Mcol .b-content .blocklist { color: #999; font-size: 1em; }
+ #bodyarea #Mcol .b-content .lista { color: #0E0D1E; text-align:left; padding-left: 10px; }
+ #bodyarea #Mcol .b-content td.block { line-height:22px; font-size: 1em; color: #0E0D1E; text-align:left; padding-left: 10px; padding-right: 10px; }
+ #bodyarea #Mcol .b-content .p { font-size: 1em; color:#8A8DD0; }
+ #bodyarea #Mcol .b-content td.block a:link, #bodyarea #Mcol .b-content td.block a:active, #bodyarea #Mcol .b-content td.block a:visited { color: #8A8DD0; text-decoration:none;}
+ #bodyarea #Mcol .b-content td.block a:hover { text-decoration:none; color: #EEE; }
+ /*---*/
+ #surround { display:block; width:100%; margin: 0px auto; }
+ #surround a:link, #surround a:active, #surround a:visited { color: #E9F4F8; text-decoration:none; text-shadow: 1px 1px #000; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-size: 1.1em; }
+ #surround a:hover { text-decoration:none; color: #00DDFF; }
+ .surround-shadow { background: url(../single/images/surround_shadow.png) 50% 0 no-repeat; height:27px; margin-bottom:18px; margin-left:auto; margin-right:auto; margin-top:-17px; }
+ table #SRRND { background:#DFDFDF url(images/title4-bg.png) 50% 0 no-repeat; border-left: 1px solid #bbb; border-right: 1px solid #bbb; border-top: 1px solid #ccc; border-bottom: 1px solid #bbb; height:70px; width:100%; padding: 27px 20px 0px 20px; margin: 0px; margin-bottom:5px; }
+ .overlay { background:  url(../single/images/main-overlay.png) 50% 0 no-repeat; }
+ /*---*/
+ a.mainuser:link, a.mainuser:active, a.mainuser:visited { color: #E9F4F8; text-decoration:none; text-shadow: 1px 1px #000; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-size: 1.1em; }
+ a.mainuser:hover { text-decoration:none; color: #00DDFF; }
+ /* ## main header ## */
+ #header { display:block; position:relative; width:96%; border:none; text-align:center; margin:2px auto; padding:0px; }
+ /* header surround */
+ #header .wrap_tl { background: url(../single/images/main-corners.png) no-repeat top left; height: 2px; }
+ #header .wrap_tr { background: url(../single/images/main-corners.png) no-repeat top right; height: 2px; }
+ #header .wrap_tm { background: url(../single/images/main-t.png) repeat-x top left; height: 2px;}
+ #header .wrap_ml { background: url(../single/images/main-l.png) repeat-y top left; }
+ #header .wrap_mr { background: url(../single/images/main-r.png) repeat-y top right; }
+ #header .wrap_mm { background: url(../single/images/medium-tint.png) top left; margin: 0px 2px 0px 2px; }
+ #header .wrap_bl { background: url(../single/images/main-corners.png) no-repeat bottom left; height: 2px; }
+ #header .wrap_br { background: url(../single/images/main-corners.png) no-repeat bottom right; height: 2px;}
+ #header .wrap_bm { background: url(../single/images/main-b.png) repeat-x bottom left; height: 2px; }
+ #header .wrap_inner_content { background: url(../single/images/overlay.png) repeat-x; background-position: top; height:100%; }
+ #header .space { height:30px; }
+ /*---*/
+ /* main header links 328596*/
+ #header .block-head { width: auto; height: 5px;}
+ #header .b-content a:link, #header .b-content a:active, #header .b-content a:visited { color: #777; font-size: 9pt; font-style:italic; }
+ #header .b-content a:hover { color: #000; font-style:italic; }
+ #header .p { font-size: 9pt; font-style:italic; }
+ #header td.lista { background:transparent; border-collapse: collapse; border:0px; color: #1D393E; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-style:italic; font-size: 9pt; text-align:left; }
+ #header td.red { color: #FF0033; text-shadow: 1px 1px #000; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-style:italic; font-size: 9pt; text-align:left; }
+ #header td.yellow { color: #FFD200; text-shadow: 1px 1px #000; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-style:italic; font-size: 9pt; text-align:left; }
+ #header td.green { color: #9CCB1D; text-shadow: 1px 1px #000; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-style:italic; font-size: 9pt; text-align:left; }
+ #header td.header { background:transparent; border-collapse: collapse; border:0px; color: #000; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-style:italic; font-size: 9pt; text-align:left; }
+ /*---*/
+ /* header mainmenu links classic style */
+ #header .b-content a.mainmenu:link, #header .b-content a.mainmenu:active, #header .b-content a.mainmenu:visited { background: url(images/main-m.png); display:inline-block; font-family: Arial, Helvetica, sans-serif; color:#444; font-weight: normal; font-size:9pt; height:25px; line-height:29px; text-decoration:none; border:1px solid #EEF5FD; text-transform: uppercase; padding:0px 15px 0px 15px; }
+ #header .b-content a.mainmenu:hover { color: #000; text-align:center; background:#CECECE url(../single/images/navigation-active.png); }
+ /*---*/
+ #Logo { height:400px; width:100%; margin-top:0px; background-image: url(../single/images/fm-logo.png); background-repeat: no-repeat; background-position: bottom center; }
+ #Logo_Spacer1 { height:5px; }
+ #Logo_Spacer2 { margin-top: -102px; }
+ /*---*/
+ /* ## Main Menu ## */
+ #Emenu { left:0px; top:0px; width:100%; height:35px; text-align:center; margin: 0px auto; padding-top:0px; }
+ #extra { display:inline-block; position:relative; width:auto; border:none; text-align:center; margin:0px auto; padding:2px; height:35px; }
+ #extra .b-content a.mainmenu:link, #extra .b-content a.mainmenu:active, #extra .b-content a.mainmenu:visited { background: url(../single/images/navigation-bg.png); display:inline-block; font-family: Arial, Helvetica, sans-serif; color:#444; font-weight: normal; height:30px; line-height:34px; text-decoration:none; text-transform: uppercase; padding:0px 15px 0px 15px; -o-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9); -icab-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9); -khtml-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9); -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9); -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9); box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9); }
+ #extra .b-content a.mainmenu:hover { color: #000; text-align:center; background:#CECECE url(../single/images/navigation-active.png); }
+ #extra .b-content .header { background:transparent; text-align:center; }
+ /*---*/
+ /* ## css for dropdown menu ## */
+ #menu { width:auto; height:35px; text-align:center; margin:0px auto; padding-top:0px; }
+ /* Donot change the values of this menu unless you know exaclty what you are doing */
+ #menu ul { margin:0; padding:0; list-style:none; white-space:nowrap; }
+ #menu ul { display:inline-block; } 
+
+ #menu li { margin:0; padding:0; list-style:none; }
+ #menu li { display:inline-block; display:inline; }
+ #menu ul ul { position:absolute; left:-9999px; width:auto; border:none; }
+
+ #menu ul.level1 { margin:-10px auto; padding:2px; background:#C0E1F0 url(../single/images/navigation-bg.png) 50% 100% no-repeat; } /* this value helps control the vertical alignment of the menu */
+ #menu ul.level1 li.level1-li { float:left; display:block; position:relative; }
+
+ /* these are the levels below the main links of the menu, these are for the location and images used in the dropdown boxes --- notice the margin for the top on level2 is set to 5px this represents the location of the first level drop, I have it set to be just below my hover image */
+ #menu ul.level2 { background-color:#B0D9ED; float:left; padding:0px; margin-top:5px; }
+ /*---*/
+ #menu ul.level3 { background-color:#B0D9ED; float:left; padding:0px; }
+ /*---*/
+ #menu ul.level4 { background-color:#B0D9ED; float:left; padding:0px; }
+ /*- Level 4 to the Left -*/
+ #menu li.left ul.level4 { background-color:#B0D9ED; width:300px; float:right; padding:0px; }
+ #menu li.left ul.level4 a { text-align:right; padding:0px 15px 0px 10px; font-size:9pt; text-transform: uppercase; }
+ /*---*/
+
+ #menu b {position:absolute;} /* -- for IE6 non-flyout dropdowns to stop flickering - who knows why --*/
+
+ /* this next value is the over all text info for the first set of links in the dropdown menu */
+ #menu a { display:block; font-family:  Arial, Helvetica, sans-serif; color:#000; font-weight: normal; font-size:10pt; line-height:35px; text-decoration:none; text-transform: uppercase; padding:0px 40px 0px 40px; }
+ /*---*/
+ #menu ul.level1 li.level1-li a.level1-a { float:left; }
+ 
+ /* the width here is set to 198px and that is shown as the width of the dropdown boxes in levels 2,3 and 4 of the dropdown menu */
+ #menu ul li:hover > ul { visibility:visible; left:0; top:29px; width:198px; } /* is for right dropdown or normal */
+ #menu li.left:hover > ul { visibility:visible; left:auto; right:0; top:29px; width:198px; } /* is for left dropdown */
+ /* the margin left or right on these next to values signifies the distance beteween the dropdown boxes. the margin top lines being negative raises the boxes so that your menu is even in stead of offset */
+ #menu ul ul li:hover > ul { visibility:visible; left:100%; top:auto; margin-top:-34px; margin-left:-2px; } /* is for right dropdown or normal */
+ #menu li.left ul li:hover > ul { visibility:visible; left:auto; right:100%; top:auto; margin-top:-34px; margin-right:-2px; } /* is for left dropdown */
+
+ #menu a:hover ul { left:0; top:29px; }
+ #menu li.left a:hover ul { left:auto; right:-1px; top:29px; }
+
+ /* these next 2 values are for the alignment, padding, font size, and text used in the dropdown boxes */
+ #menu li ul a { text-align:left; padding:0px 10px 0px 15px; font-size:9pt; text-transform: uppercase; }
+ #menu li.left ul a { text-align:right; padding:0px 15px 0px 10px; font-size:9pt; text-transform: uppercase; }
+
+ #menu a:hover a:hover ul, #menu a:hover a:hover a:hover ul { left:100%; visibility:visible; }
+ #menu li.left a:hover a:hover ul, #menu li.left a:hover a:hover a:hover ul { left:auto; right:0; visibility:visible; }
+ #menu a:hover ul ul, #menu a:hover a:hover ul ul { left:-9999px; }
+ #menu li.left a:hover ul ul, #menu li.left a:hover a:hover ul ul { left:-9999px; }
+
+ #menu li a.drop { background:transparent url(../single/images/down-arrow.png) no-repeat right center; padding-left:10px; } /* the padding on this is set so that the dropdown arrow is offset to 20px to the right of the drop menu links */
+ #menu li a.fly { background:transparent url(../single/images/right-arrow.png) no-repeat right center; }
+ #menu li.left ul a.fly { background:transparent url(../single/images/left-arrow.png) no-repeat left center; }
+
+ /* we only need one image here for our mouse over or hover image, and link color */
+ #menu li a:hover, #menu li a.fly:hover { } 
+ #menu li:hover > a, #menu ul li:hover > a.fly { color:#444; background-color:#C0E0ED; border:none; }
+ /*---*/	
+ /* not to be messed with beyond this point these are setting for IE */
+ #menu table { position:absolute; height:0; width:0; left:0; border-collapse:collapse; margin-top:-6px; }
+ #menu table table { position:absolute; left:99%; height:0; width:0; border-collapse:collapse; margin-top:-30px; margin-left:-4px; }
+ #menu li.left table { position:absolute; height:0; width:0; left:auto; right:0; border-collapse:collapse; margin-top:-4px; }
+ #menu li.left table table { position:absolute; left:auto; right:100%; height:0; width:0; border-collapse:collapse; margin-top:-30px; margin-right:-4px; }
+ /*---*/
+ /* ## Main Setup ##C0E1F0*/
+ body { font-family: verdana, arial, helvetica, sans-serif; font-size:9pt; width:100%; background: #E3EEFC url(../single/images/grunge.png); color:#1D393E; margin-top: 0px; padding: 0px; }
+
+ #main_body_wrap { position:absolute; left:0px; top:0px; min-height:100%; width:100%; }
+ 
+ #outer_wrap { position:relative; display:block; width:96%; padding:0px; margin: 0px auto; /*background-image: url(images/swarm.png); background-repeat: no-repeat; background-position: top center;*/ }
+ 	
+ #mid_Container { position:relative; display:block; left:0px; top:0px; width:100%; min-height:100%; padding:0px; margin: 0px auto; }
+ 	
+ /* ## This is where the HEADER is displayed ## */
+ #top_row { display:inline; width:100%; min-height:100%; }
+ #top_row_inner1 { height:100%; padding:0; }
+ #top_row_inner2 { }
+ .top_row_spacer { height:40px; } /* this gives space between the header and the animated collapse images */
+ 
+ /* ## This is set aside for the ads block found in xbtitfm ## */
+ #ader_wrap { display:block; width:100%; height:100%; }
+ #ader_wrap1 { height:100%; /*padding-top:18px; padding-bottom:20px;*/ }
+ #ader_wrap2 { width:96%; margin-left:auto; margin-right:auto; }
+ 
+ /* ## This holds the MENU'S both dropdown and main ## */	
+ #top_menu { display:inline; padding-left:17px; margin-left:-17px; margin-right:-17px; width:100%; min-height:100%; }
+ #top_menu_inner1 { height:100%; padding:0; }
+ #top_menu_inner2 { height:35px; padding:0; }
+ .top_menu_spacer { height:20px; }
+	
+ #top_margin { min-height:10px; width:100%; }
+ /* ## Main Outer Wrapper ## */
+ .wrap_tl { background: url(../single/images/main-corners.png) no-repeat top left; height: 2px; }
+ .wrap_tr { background: url(../single/images/main-corners.png) no-repeat top right; height: 2px; }
+ .wrap_tm { background: url(../single/images/main-t.png) repeat-x top left;	height: 2px; }
+ .wrap_ml { background: url(../single/images/main-l.png) repeat-y top left; }
+ .wrap_mr { background: url(../single/images/main-r.png) repeat-y top right; }
+ .wrap_mm { background: url(../single/images/medium-tint.png) top left; margin: 0px 2px 0px 2px; }
+ .wrap_bl { background: url(../single/images/main-corners.png) no-repeat bottom left; height: 2px; }
+ .wrap_br { background: url(../single/images/main-corners.png) no-repeat bottom right; height: 2px; }
+ .wrap_bm { background: url(../single/images/main-b.png) repeat-x bottom left; height: 2px; }
+ .wrap_inner_content { background: url(../single/images/overlay.png) repeat-x; background-position: top; height:100%; }
+ .spacer { height:10px; }
+ .shadowbar { background: url(../single/images/main-shadow.png) 50% 0 no-repeat; height:32px; margin-bottom:18px; margin-left:auto; margin-right:auto; margin-top:-1px; }
+ /*---*/
+ /* Copywrite Area */
+ #bottom_margin { height:20px; width:100%; }
+ #bottom_row { width:100%; }
+ #bottom_row_inner1 { height:100%; }
+ #bottom_row_inner2 { background: url(../single/images/row-bg.png); height:110px; padding-bottom:30px; }
+ #footer_wrap { height:130px; width:100% }
+ #footer_text { margin:1px auto; text-align:center; padding-left:10px; padding-top:40px; font-size: 10pt; font-style:italic; }
+ .footer { color: #1D393E; font-size: 10pt; font-style:italic; text-shadow: 1px 1px #BBB; }
+ .footer a:link, .footer a:active, .footer a:visited { color:#33CCBB; text-decoration:none; text-shadow: 1px 1px #000; font-family: Optima, Lucida, 'MgOpen Cosmetica', 'Lucida Sans Unicode', sans-serif; font-weight:bold; font-size: 10pt; font-style:italic; }
+ .footer a:hover { color: #E9F4F8; font-size: 10pt; }
+ .Fspacer { height:10px; } /* this is used in the credits area instead of using <br /> ;o) */
+ /*-- start of original tracker settings --*/
+ .highlight { background: #F8F81A; color: #FF0000; }
+ .btn { cursor:pointer; }
+ textarea { font-size: 9pt; color: #000; font-family: verdana, arial, helvetica, sans-serif; background: url(../single/images/box1-bg.png); display:block; overflow: auto; line-height: 1.4em; }
+ /* Checkboxes shouldn't have a background color. */
+ input.check { }
+ /* Standard horizontal rule.. */
+ hr { color: #808080; background-color: transparent; }
+ 	
+ img { border:0px; }
+ 	
+ h1 { font-size: 11pt; }
+ p { font-size: 9pt; }
+ 
+ table { border:0px; }
+ table.lista { }
+ 	
+ td { font-size: 9pt; }
+ 
+ td.title { font-size: 9pt; }
+ 	
+ td.navigation { background-color: #000; font-weight: bold; font-size: 9pt; }
+ 
+ form { margin-top: 0; margin-bottom: 0; }
+ 	
+ .sublink { font-style: italic; font-size: 9pt; font-weight: normal; }
+ 
+ a.index { font-weight: bold; }
+ 
+ a.biglink { font-weight: bold; font-size: 10pt; }
+ 	
+ .important { font-weight: bold; font-size: 10pt; }
+ 
+ td.red, td.red a:link, td.red a:visited { color: red; }
+ td.yellow, td.yellow a:link, td.yellow a:visited { color: #BEC635; }
+ td.green, td.green a:link. td.green a:visited { color: green; }
+ 
+ td.progress { padding: 0px; background-image: url(../single/images/backprogress.gif); background-repeat: repeat-x; height: 10px; }
+ 
+ li { list-style-position:inside; display:block; } 
+ /* unordered list */
+ ul { margin: 8px 0px 0px 16px; padding: 0px; }
+ ul li { list-style-type: none; margin: 0px 0px 11px 0px; padding: 0px; }
+ /* ordered list */
+ ol { margin: 8px 0px 0px 24px; padding: 0px; }
+ ol li { margin: 0px 0px 11px 0px; padding: 0px; }
+ 
+ .error { color:black; font-weight: bold; font-size: 14pt; padding: 3px; background:url(../single/images/chr.gif); background-repeat: repeat-x; }
+ .information { color:black; font-weight: bold; font-size: 14pt; padding: 3px; background:url(../single/images/chb.gif); background-repeat: repeat-x; }
+ .success { color:black; font-weight: bold; font-size: 14pt; padding: 3px; background:url(../single/images/chg.gif); background-repeat: repeat-x; }
+ /* end style sheet */

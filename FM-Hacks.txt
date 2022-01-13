@@ -1,0 +1,180 @@
+These are the hacks currently included in xbtitFM, where possible I have tried to credit everyone who has worked on these hacks so my apologies if I've missed anyone.
+
+
+Invitation System
+-----------------
+- Unique hack by dodge
+- Converted to xbtitFM by Petr1fied
+
+
+Custom Title
+------------
+- xbtit version by Real_ptr
+- Originally coded by RippeR for btit 1.x.x
+- Converted to xbtitFM by Petr1fied
+
+
+Bonus System
+------------
+- xbtit version by Real_ptr
+- Originally coded by cobracrk for btit 1.x.x
+- Additional xbtit code by Lupin to make it compatible with the XBT backend
+- Converted to xbtitFM by Petr1fied
+
+
+Donation History
+----------------
+- Unique hack by DiemThuy
+- Converted to xbtitFM by Petr1fied
+
+
+Simple Donor Display
+--------------------
+- Unique hack by Lupin
+- Converted to xbtitFM by Petr1fied
+
+
+Timed Ranks
+-----------
+- Unique hack by DiemThuy
+- Converted to xbtitFM by Petr1fied
+
+
+Advanced Auto Donation System
+-----------------------------
+- Unique hack by DiemThuy
+- Based upon auto donation system Mod by DrAgon64 and Basic donations/progress bar by Cooly
+- Additional coding by Petr1fied for XBT backend compatibility
+- Converted to xbtitFM by Petr1fied
+
+
+Gold And Silver Torrents
+------------------------
+- Unique hack by Losmi
+- Additional php coding by Lupin for XBT backend compatability
+- Additional C++ coding (xbt backend) by Olaf van der Spek
+- Converted to xbtitFM by Petr1fied
+
+
+Free Leech with Happy Hour
+--------------------------
+- Unique Hack by DiemThuy
+- Additional php coding by Lupin for XBT backend compatability
+- Additional C++ coding (xbt backend) by Olaf van der Spek
+- Converted to xbtitFM by Petr1fied
+
+
+Torrent Image Upload
+--------------------
+- Unique hack by Real_ptr
+- Converted to xbtitFM by Petr1fied
+
+
+Warning System
+--------------
+- Unique hack by linux198
+- Enhanced by the Warned Level addon hack by DiemThuy
+- Converted to xbtitFM by Petr1fied
+
+
+Anti Hit & Run System
+---------------------
+- xbtit version by DiemThuy
+- based upon Anti Hit & Run System for btit 1.x.x by cobracrk (additional coding by intelpentium4 & fatepower)
+- Additional php coding by Petr1fied for XBT backend compatability
+- Converted to xbtitFM by Petr1fied (apologies to cooly for not using his conversion, this hack needed a major rewrite)
+
+
+Ask For Reseed
+--------------
+- Unique hack by DiemThuy
+- Additional php coding by Petr1fied for XBT backend compatability
+- Converted to xbtitFM by DiemThuy/Petr1fied
+
+
+Auto Rank
+---------
+- Unique hack by Petr1fied
+- Converted to xbtitFM by Petr1fied
+
+
+Report Torrents & Users
+-----------------------
+- xbtit version by DiemThuy
+- based upon Torrent/User Reporting btit 1.x.x by gAnDo/TheDevil/RippeR which was in turn based upon a hack by Oink in the TB Source forums.
+- Converted to xbtitFM by Petr1fied
+
+
+Booted
+------
+- xbtit version by cooly
+- Based upon Disabled for btit 1.x.x by RippeR
+- Converted to xbtitFM by Petr1fied
+
+
+Group Colours Overall
+---------------------
+- Unique hack by Petr1fied
+- Converted to xbtitFM and enhanced by Petr1fied
+
+
+GetIMDB In Torrent Details
+--------------------------
+- Unique hack by cooly
+- Converted to xbtitFM by Petr1fied
+
+
+Staff Panel
+-----------
+- unique hack by Lupin
+- Converted to xbtitFM by cooly
+
+
+Rules With Groups
+-----------------
+- unique hack by Losmi
+- Converted to xbtitFM by Petr1fied
+
+
+Show if Seedbox is used
+-----------------------
+- xbtit version by DiemThuy
+- Based upon Seedbox Torrents for btit 1.x.x by cainy (http://www.btiteam.org/smf/index.php?topic=13022.msg83964#msg83964)
+- Converted to xbtitFM by Petr1fied
+
+
+Shoutbox Member And Torrent Announce
+------------------------------------
+- Unique hacks by Lupin & DarkLegion
+- Combined & converted to xbtitFM by Petr1fied
+
+
+Sticky Torrent
+--------------
+- xbtit version by Losmi
+- Based upon Sticky torrents for 1.4.X by fatepower which in turn was based upon sticky torrent by tony for TBDev.
+- Converted to xbtitFM by Petr1fied
+
+
+Helpdesk
+--------
+- xbtit version by DiemThuy
+- Based upon Helpdesk for btit 1.x.x by Jboy which in turn was based upon Helpdesk by nuerher for TBDev.
+- Converted to xbtitFM by Petr1fied
+
+
+Torrent Request and vote
+------------------------
+- xbtit version by DiemThuy
+- Based upon Torrent Request ++ for btit 1.x.x by miskotes.
+- Converted to xbtitFM by Petr1fied
+
+
+--------------------------------------------------------
+
+In the process of converting these hacks to the framework used in xbtitFM pretty much every hack has been modified/improved from the original xbtit version by myself, however this has not been a solo project.
+
+Without the help of the entire Developer Team this project could have never happened, a special shout goes out to DiemThuy for all the bugs she has found whilst testing xbtitFM, hopefully she didn't miss too many. :D
+
+Regards
+Petr1fied

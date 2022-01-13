@@ -1,0 +1,6 @@
+#######################
+# Xbtit-seo 3.0 by atmoner
+#######################
+RewriteEngine On
+RewriteRule ^([^/]*)-([^/]*).html$ /index.php?page=torrent-details&name=$1&torrent_id=$2 [L]
+RewriteRule ^([^/]*)_([^/]*).html$ /index.php?page=userdetails&id=$1&name=$2 [L] 
