@@ -27,7 +27,7 @@
 - Web server with Apache or Lighttp installed and running
 - PHP 7.1 to 7.4(If you use php 4, you'll have to rename the phpmailer's folder phpmailer->phpmailer5 and phpmailer4->phpmailer) 
 - MariaDB 10.1 or better
-
+- Disable MySQL Strict Mode
 #----------------#
 # DOCUMENTATION  #
 #----------------#
