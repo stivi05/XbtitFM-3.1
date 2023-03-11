@@ -74,9 +74,14 @@ die("Sorry, Shoutbox is not available...");
     if (isset($_GET["edit"]))
         $edit = $_GET["edit"]; # getting the edit header
 
+    if (is_numeric($_GET["sid"]) or is_null($_GET["sid"]))
+{
     if (isset($_GET["sid"])) {
         $sid = intval($_GET["sid"]); # getting shout id (sid)
-
+}
+else
+    echo "SID can only be a number !";
+	    
     $post = $_POST["shoutid"]; # setting shout id
         $post = str_replace("'","\'",$post); # our textarea string replacement for preview
 
